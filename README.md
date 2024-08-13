@@ -1,4 +1,4 @@
-# Stochastic-Mechanics-and-Quantum-Mechanics
+# Stochastic Mechanics and Quantum Mechanics
 Compendium on Nelson's stochastic mechanics as an interpretation of quantum mechanics.
 
 This compendium arose from the necessity of having to deal with the subject of quantum mechanics and quantum computing in my job. In this context, I revised my old lecture notes.
