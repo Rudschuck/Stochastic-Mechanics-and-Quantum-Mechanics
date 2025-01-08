@@ -37,7 +37,7 @@ Interestingly, however, only one assumption is required for its derivation. This
 as well as the position of the energy levels of the shell electrons in atomic physics. Furthermore, the long-known problem of radiation emission from moving electrons is also solved by this theory. All statements known from quantum mechanics can be applied directly within the framework of 
 stochastic mechanics without having to use the formalism of quantum mechanics. 
 
-To be fair, however, it must also be said that stochastic mechanics is only one of many interpretations of quantum mechanics. quantum mechanics. However, it is characterised by a very intuitive approach via classical mechanics.
+To be fair, however, it must also be said that stochastic mechanics is only one of many interpretations of quantum mechanics. However, it is characterised by a very intuitive approach via classical mechanics.
 
 ### Introduction 
 
