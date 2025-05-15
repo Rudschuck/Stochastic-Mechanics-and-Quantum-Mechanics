@@ -1,7 +1,6 @@
 # Stochastic Mechanics and Quantum Mechanics
 Compendium on Nelson's stochastic mechanics as an interpretation of quantum mechanics.
-
-<meta name="google-site-verification" content="TV-b7CDoHUDtRpzV6EUcrow_nAs54_hjQ_pDx4JhLiA" />
+                                          
 
 This compendium arose from the necessity of having to deal with the subject of quantum mechanics and quantum computing in my job. In this context, I revised my old lecture notes.
 
