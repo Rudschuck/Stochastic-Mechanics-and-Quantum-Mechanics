@@ -14,7 +14,7 @@ For this reason, the compendium has two blemishes:
 I would like to take this opportunity to express my sincere thanks to all those who are contributing to the development of this compendium. Yes, the presence is intentional. This compendium is not finished but will be continuously developed by me. The aim is not to produce an to create an all-encompassing textbook, but to bring together my ideas, comments and criticisms on stochastic mechanics. 
 
 
-(c) Michael Rudschuck; michael.rudschuck@vde.com
+(c) Michael Rudschuck
 
 
 ### Foreword
