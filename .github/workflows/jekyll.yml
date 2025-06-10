@@ -50,8 +50,7 @@ jobs:
           JEKYLL_ENV: production
           
       - name: Inject Google Site Verification Meta Tag
-        run: |
-          META_TAG='<meta name="google-site-verification" content="Ht4XWsACVWHly9uns9kHlGPv9f7EvFvVXz2mFL4pmwg" />'
+        run: META_TAG='<meta name="google-site-verification" content="Ht4XWsACVWHly9uns9kHlGPv9f7EvFvVXz2mFL4pmwg" />'
           find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} + 
           
       - name: Upload artifact
