@@ -61,3 +61,4 @@ Nelson's original formulation from 1966 also contains the basic features of the 
      - 2024-11-26 - v0.2 - Added notes on quantum computing
      - 2025-01-20 - v0.3 - Pictures added
      - 2025-04-16 - v0.4 - Minor changes
+     - 2025-07-18 - v0.5 - Chapter spin added
