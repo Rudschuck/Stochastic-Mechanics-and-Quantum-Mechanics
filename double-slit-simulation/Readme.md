@@ -81,7 +81,7 @@ This project is released under the **GPL 2 or higher**.
 Feel free to use, modify, and distribute it.
 
 (c) Dr. Michael Rudschuck
- michael.rudschuck@vde.com    
+   
 
 ---
 
