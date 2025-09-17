@@ -1,0 +1,65 @@
+<h1>Two-Slit Experiment Simulation (Tcl/Tk)</h1>
+<p>This repository contains a Tcl/Tk port of John Lafferty’s Java Applet (1998), which itself was inspired by Edward Nelson’s famous book  <em>Stochastic Mechanics</em>.  </p>
+<p>The program simulates the <strong>two-slit experiment</strong> by letting particles diffuse and drift according to Nelson’s formula (17.5). Over time, the simulation produces an <strong>interference-like histogram</strong> on the detection screen.</p>
+<hr>
+<h2>✨ Features</h2>
+<ul>
+<li><strong>Two-slit barrier</strong> with adjustable slit width and separation.  </li>
+<li><strong>Stochastic mechanics simulation</strong> combining drift + Brownian motion.  </li>
+<li><strong>Histogram visualization</strong> of particle impacts on the screen.  </li>
+<li><strong>Interactive controls</strong>:<ul>
+<li>Toggle between <em>zoom in</em> and <em>zoom out</em> (changes resolution and slit separation).  </li>
+<li>Pause and resume the animation.  </li>
+<li>Reset the simulation.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2>⚙️ Installation &amp; Usage</h2>
+<p>You need a Tcl/Tk interpreter (<code>wish</code>) installed on your system.</p>
+<p>Clone this repository and run the script with <code>wish</code>:</p>
+<pre><code class="language-bash">git clone https://github.com/Rudschuck/Stochastic-Mechanics-and-Quantum-Mechanics.git
+cd ./Stochastic-Mechanics-and-Quantum-Mechanics/double-slit-simulation
+wish ./double-slit-simulation.tcl
+</code></pre>
+<hr>
+<h2>🎮 Controls</h2>
+<ul>
+<li><p><strong>Reset</strong>
+Clears all counters and particles and restarts the simulation.</p>
+</li>
+<li><p><strong>Pause / Resume</strong>
+Stops or resumes the animation loop.</p>
+</li>
+</ul>
+<hr>
+<h2>📖 Background</h2>
+<p>This simulation illustrates Nelson’s <em>stochastic mechanics</em> approach to quantum theory.
+Instead of treating wave functions directly, particle motion is modeled as <strong>classical diffusion</strong> with additional <strong>drift terms</strong> derived from Nelson’s equations.</p>
+<p>The resulting particle distribution on the screen resembles the <strong>interference pattern</strong> known from quantum mechanics, but emerges from a purely stochastic process.</p>
+<hr>
+<h2>🙏 Credits</h2>
+<ul>
+<li>Original Java Applet: John Lafferty (1998)
+see: <a href="http://www.cs.cmu.edu/afs/cs/usr/lafferty/www/QF/TwoSlit.java">http://www.cs.cmu.edu/afs/cs/usr/lafferty/www/QF/TwoSlit.java</a></li>
+<li>Theoretical background: <ol>
+<li>Edward Nelson, <em>Quantum Fluctuations</em> (1985), Princeton Series in Physics</li>
+<li>Lothar Fritsche, <em>A new look at the derivation of the Schrödinger equation from Newtonian mechanics</em>, Annalen der Physik (2003), <strong>12</strong>, pp. 371-403, <a href="https://www.researchgate.net/publication/227605133">https://www.researchgate.net/publication/227605133</a></li>
+</ol>
+</li>
+</ul>
+<p>An comprehensive bibliography regarding Nelson&#39;s Stochastic Mechanics can be found at </p>
+<ul>
+<li><a href="https://github.com/Rudschuck/Stochastic-Mechanics-and-Quantum-Mechanics/raw/main/Stochastische_Mechanik_und_Quantenmechanik_latest.pdf">&gt;&gt;&gt;Stochastic Mechanics and Quantum Mechanics (German language)&lt;&lt;&lt;</a></li>
+</ul>
+<hr>
+<h2>📜 License &amp; Copyright</h2>
+<p>This project is released under the <strong>GPL 2 or higher</strong>.
+Feel free to use, modify, and distribute it.</p>
+<p>(c) Dr. Michael Rudschuck
+ <a href="mailto:michael.rudschuck@vde.com">michael.rudschuck@vde.com</a>    </p>
+<hr>
+<h2>Rev:</h2>
+<ul>
+<li>0.1: First release.</li>
+</ul>
