@@ -1,7 +1,6 @@
 # Two-Slit Experiment Simulation (Tcl/Tk)
 
-This repository contains a Tcl/Tk port of John Lafferty’s Java Applet (1998),  
-which itself was inspired by Edward Nelson’s famous book  *Stochastic Mechanics*.  
+This repository contains a Tcl/Tk port of John Lafferty’s Java Applet (1998), which itself was inspired by Edward Nelson’s famous book  *Stochastic Mechanics*.  
 
 The program simulates the **two-slit experiment** by letting particles diffuse and drift according to Nelson’s formula (17.5). Over time, the simulation produces an **interference-like histogram** on the detection screen.
 
