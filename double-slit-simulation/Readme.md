@@ -18,12 +18,6 @@ The program simulates the **two-slit experiment** by letting particles diffuse a
   - Pause and resume the animation.  
   - Reset the simulation.  
 
----
-
-
-## 📸 Screenshot
-
-*(Add an image of the running program here once available)*
 
 
 ---
@@ -35,9 +29,9 @@ You need a Tcl/Tk interpreter (`wish`) installed on your system.
 Clone this repository and run the script with `wish`:
 
 ```bash
-git clone https://github.com/your-username/two-slit-tcltk.git
-cd two-slit-tcltk
-wish twoslit.tcl
+git clone https://github.com/Rudschuck/Stochastic-Mechanics-and-Quantum-Mechanics.git
+cd ./Stochastic-Mechanics-and-Quantum-Mechanics/double-slit-simulation
+wish ./double-slit-simulation.tcl
 ```
 
 ---
