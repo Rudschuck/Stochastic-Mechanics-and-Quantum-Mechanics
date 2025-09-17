@@ -14,8 +14,6 @@ For this reason, the compendium has two blemishes:
 I would like to take this opportunity to express my sincere thanks to all those who are contributing to the development of this compendium. Yes, the presence is intentional. This compendium is not finished but will be continuously developed by me. The aim is not to produce an to create an all-encompassing textbook, but to bring together my ideas, comments and criticisms on stochastic mechanics. 
 
 
-(c) Michael Rudschuck
-
 
 ---
 
@@ -58,6 +56,19 @@ Stochastic mechanics can be seen as a kind of generalisation of the theoretical 
 The foundations of stochastic mechanics were laid by Edward Nelson in 1966, based on earlier ideas by Fenyes, Weizel and others. Nelson's original formulation is based on two basic hypotheses. The first assumes that the trajectories of the dynamical system are system are disturbed by an underlying Brownian motion. movement. The second is a special form of the second principle of dynamics, in which the classical acceleration is replaced by a suitable form of stochastic acceleration. Further developments of the theory show that the basic equation of stochastic mechanics can be derived from variational principles, in complete analogy to classical mechanics, the basic equation of stochastic mechanics can be derived from variational principles based on the same classical action. which are based on the same classical action but use stochastically perturbed trajectories as experimental trajectories. From this view, stochastic mechanics is closely related to classical mechanics as a kind of stochastic generalisation.
 
 Nelson's original formulation from 1966 also contains the basic features of the equivalence between stochastic mechanics and quantum mechanics, including the effects of physical interpretation. This equivalence has been confirmed by research in recent years. been confirmed. It should be noted, however, that stochastic mechanics has some features that, in principle, can potentially be used within the proposed theoretical scheme, but which have no correspondence in the structure of effective physical observability within the conventional interpretation. observability within the conventional interpretation of quantum mechanics. Therefore, it seems completely open the problem of deciding whether the particular structure of stochastic mechanics has an effective value, in the sense of a physical theory that is more detailed than the usual formulation. more detailed than the usual formulation of quantum mechanics. Otherwise, the richer structure of observability in stochastic mechanics would have to be based on purely mathematical terms, without an empirically observable physical counterpart. From this point of view, it would be extremely important to find some kind of physical motivation for the underlying Brownian movement that gives all trajectories a stochastic character.
+
+
+---
+
+## License & Copyright
+
+* The main document is released under the CC0-1.0.
+* Sample code is release license GPL 2 or higher.
+
+
+Feel free to use, modify, and distribute it.
+
+(c) Dr. Michael Rudschuck 2010 - 2025
 
 
 ---
