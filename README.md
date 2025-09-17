@@ -17,6 +17,8 @@ I would like to take this opportunity to express my sincere thanks to all those 
 (c) Michael Rudschuck
 
 
+---
+
 ### Foreword
 
 This compendium on stochastic mechanics and quantum mechanics is based on a lecture transcript of the lectures Quantenmechanik I and II, held in WS 95 and SS 96 at the TU Clausthal by Prof. Dr. Lothar Fritsche. In this lecture, quantum mechanics was derived from classical mechanics.
@@ -39,10 +41,14 @@ stochastic mechanics without having to use the formalism of quantum mechanics.
 
 To be fair, however, it must also be said that stochastic mechanics is only one of many interpretations of quantum mechanics. However, it is characterised by a very intuitive approach via classical mechanics.
 
+---
+
 ### Introduction 
 
 Quantum mechanics is undoubtedly one of the most fascinating and challenging theories in physics. Since its development at the beginning of the 20th century, it has changed our understanding of nature in the most fundamental and enabled numerous technological innovations that characterise our daily lives. From electronics, medicine and cryptography, quantum mechanics has found applications in almost every area of science and technology. 
 
+
+---
 
 ### Stochastic Mechanics
 
@@ -52,6 +58,9 @@ Stochastic mechanics can be seen as a kind of generalisation of the theoretical 
 The foundations of stochastic mechanics were laid by Edward Nelson in 1966, based on earlier ideas by Fenyes, Weizel and others. Nelson's original formulation is based on two basic hypotheses. The first assumes that the trajectories of the dynamical system are system are disturbed by an underlying Brownian motion. movement. The second is a special form of the second principle of dynamics, in which the classical acceleration is replaced by a suitable form of stochastic acceleration. Further developments of the theory show that the basic equation of stochastic mechanics can be derived from variational principles, in complete analogy to classical mechanics, the basic equation of stochastic mechanics can be derived from variational principles based on the same classical action. which are based on the same classical action but use stochastically perturbed trajectories as experimental trajectories. From this view, stochastic mechanics is closely related to classical mechanics as a kind of stochastic generalisation.
 
 Nelson's original formulation from 1966 also contains the basic features of the equivalence between stochastic mechanics and quantum mechanics, including the effects of physical interpretation. This equivalence has been confirmed by research in recent years. been confirmed. It should be noted, however, that stochastic mechanics has some features that, in principle, can potentially be used within the proposed theoretical scheme, but which have no correspondence in the structure of effective physical observability within the conventional interpretation. observability within the conventional interpretation of quantum mechanics. Therefore, it seems completely open the problem of deciding whether the particular structure of stochastic mechanics has an effective value, in the sense of a physical theory that is more detailed than the usual formulation. more detailed than the usual formulation of quantum mechanics. Otherwise, the richer structure of observability in stochastic mechanics would have to be based on purely mathematical terms, without an empirically observable physical counterpart. From this point of view, it would be extremely important to find some kind of physical motivation for the underlying Brownian movement that gives all trajectories a stochastic character.
+
+
+---
 
 ## Editorial Notes
 
