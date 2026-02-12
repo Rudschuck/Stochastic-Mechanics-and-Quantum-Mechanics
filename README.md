@@ -68,7 +68,7 @@ Nelson's original formulation from 1966 also contains the basic features of the 
 
 Feel free to use, modify, and distribute it.
 
-(c) Dr. Michael Rudschuck 2010 - 2025
+(c) Dr. Michael Rudschuck 2010 - 2026
 
 
 ---
