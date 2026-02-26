@@ -82,3 +82,4 @@ Feel free to use, modify, and distribute it.
      - 2025-01-20 - v0.3 - Pictures added
      - 2025-04-16 - v0.4 - Minor changes
      - 2025-07-18 - v0.5 - Chapter spin added
+     - 2026-02-26 - v0.6 - Classical Experiments added
